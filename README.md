@@ -1,2 +1,4 @@
 # Recover
-Just a needed file for dragon
+Dragon is ded
+
+https://pastebin.com/7KeyNjiG
