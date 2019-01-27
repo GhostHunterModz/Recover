@@ -1,4 +1,5 @@
 # Recover
-Dragon is ded
+Dragon is now released again: https://ghosthuntermodz.github.io/dragon
+Join Dusk's Discord Server: https://discord.gg/wECcwKt
 
-https://pastebin.com/7KeyNjiG
+Dusk is arceusmatt's new project for mcpe. 
