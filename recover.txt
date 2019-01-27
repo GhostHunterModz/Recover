@@ -1,5 +1,5 @@
 {"name":"Dragon",
-"version":"1.5.1",
+"version":"1.5.0",
 "list":"https://gist.github.com/jocopa3/f8c9f9158ede0e9d057781188ba440f5",
 "something":"0",
 "execute":"0:dragon.toast('testing 123');",
