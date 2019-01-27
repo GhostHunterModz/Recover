@@ -1,1 +1,1 @@
-{"version":"1","domains":["pe.xenodim.ml","play.moonforce.eu","skyraids.ml","fallentech.tk","2b2t.fun"],"ips":["193.70.80.3","64.52.86.81","89.33.7.113","149.56.243.216","139.99.201.62"],"ports":["19132","19132","19132","19132","19132"]}
+{"version":"1","domains":["pe.xenodim.ml"],"ips":["193.70.80.3"]}
