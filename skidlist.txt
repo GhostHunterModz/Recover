@@ -1,1 +1,1 @@
-{"version":"1","menus":["Alphahack.fixed.bariscode"]}
+{"version":"1","menus":["bariscode","skiddy"]}
