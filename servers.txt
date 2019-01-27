@@ -1,1 +1,1 @@
-{"version":"1","domains":["pe.xenodim.ml"],"ips":["193.70.80.3"]}
+{"version":"1","domains":["pe.xenodim.ml","play.moonforce.eu"],"ips":["193.70.80.3","64.52.86.81"]}
